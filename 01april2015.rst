@@ -7,5 +7,6 @@ Please find the below Meeting agenda for the meeting:
 * Daily Jobs for Jiva v5.6.1 clients.
 * Versioning required for Java car files to distinguish among releases.
 * Prince XML in puppet ?
+* SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed issue
 
 
