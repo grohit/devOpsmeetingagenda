@@ -3,7 +3,7 @@ Team,
 Please find the below Meeting agenda for the meeting:
 
 * Require a read-only access for developers to view objects inside ZMI.
-* Fix for MSVCR71.dll (permission issues). Can we create use Microsoft Visual C++ Redistributable package to fix this issue.
+* Fix for MSVCR71.dll (permission issues). Can we use Microsoft Visual C++ Redistributable package to fix this issue.
 * Daily Jobs for Jiva v5.6.1 clients.
 * Versioning required for Java car files to distinguish among releases.
 * Prince XML in puppet ?
